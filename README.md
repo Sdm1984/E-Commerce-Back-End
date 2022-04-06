@@ -1,7 +1,7 @@
 # E-Commerce-Back-End
 
 ## Description
-The challenge was to build the back end for an e-commerce site. I was asked to use the Express.js API. I also used Sequelize to interact with a MySQL database. API Routes performs RESTful CRUD operations. 
+The challenge was to build the back end for an e-commerce site. I was asked to use the Express.js API. I also used Sequelize to interact with a MySQL database.  
 
 ## User Story
 AS A manager at an internet retail company
