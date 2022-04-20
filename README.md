@@ -30,12 +30,11 @@ THEN I am able to successfully create, update, and delete data in my database
 7. Access the server: run npm start.
 
 ## Mock-Up
+<img src="./Assets/SS1.png" alt="Screenshot ">
 
 
+## Video
 
-## Videos
-
-Video showing MySQL walk through via Google Link
 Video of the API routes and Insomnia via Google Link
 
 
