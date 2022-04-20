@@ -36,6 +36,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Video
 
 Video of the API routes and Insomnia via Google Link
+https://drive.google.com/file/d/1OfN8Q6LlFMQzPtGaP-UeM4oyn9MOrQDj/view
 
 
 Tests
